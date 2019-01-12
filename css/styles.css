@@ -4,21 +4,24 @@
 h2 {
   text-align: center;
 }
-#why {
-  text-align: center;
-}
+
 .name {
   text-align: center;
   margin-top: 2%;
+  margin-bottom: 2%;
 }
 
-.projects {
-  margin-top: 1%;
-}
 .titles {
   font-size: 130%;
   font-weight: bolder;
 }
 .riley {
   font-size: 150;
+}
+.portait {
+  float: right;
+}
+img.epicodus {
+  float: left;
+  padding-right: 2%;
 }
