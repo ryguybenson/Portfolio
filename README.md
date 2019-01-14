@@ -6,7 +6,9 @@
 
 ## Description
 
-_This application is a Friday project for Epicodus. This application provides information on Riley Benson, including, a photo of him, his former education, his job experience, his interests, and why he chose to enroll at Epicodus. This application also contains descriptions of his former projects, as well as links to to the projects corresponding repositories in GitHub.com._
+_This application is a Friday project for Epicodus. This application provides information on Riley Benson, including, a photo of him, his former education, his job experience, his interests, and why he chose to enroll at Epicodus. This application also contains descriptions of his former projects, as well as links to to the projects corresponding repositories in GitHub.com. 
+
+https://ryguybenson.github.io/Portfolio/ gh-pages link._
 
 ## Setup/Installation Requirements
 
