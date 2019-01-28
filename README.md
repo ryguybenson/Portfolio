@@ -12,13 +12,10 @@ https://ryguybenson.github.io/Portfolio/ gh-pages link._
 
 ## Setup/Installation Requirements
 
-* _Use Atom to create content._
-* _Use CSS to personalize display and format._
-* _i_
-* _e_
-* _f_
+* _Clone the repository from the "url"_
+* _Open the repository in your preferred text editor_
+* _Open the index.html in your web browser to view the application_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
